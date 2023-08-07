@@ -8,5 +8,7 @@ Message Queue service using RabbitMQ
    `docker-compose up`
 # Command to run frontend(react)
   `cd web`
+  
   `npm install` (First time only)
+  
   `npm run start`
